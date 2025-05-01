@@ -1,3 +1,7 @@
+
+deepseek-ai/DeepSeek-R1 · Hugging Face
+https://huggingface.co/deepseek-ai/DeepSeek-R1
+
 DeepSeek-R1 Quickstart
 https://docs.together.ai/docs/deepseek-r1
 
